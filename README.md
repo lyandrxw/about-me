@@ -19,7 +19,6 @@ Instagram: [@andreeei.gfx](https://www.instagram.com/andreeei.gfx/?hl=en)
 ## Contact me
 - Discord: lyandrxw#2464
 - Instagram: [@lyandrxw](https://www.instagram.com/lyandrxw/?hl=en)
-- Twitter: [@andrxw](https://twitter.com/lyandrxw) 
 
 ## Stats
 [![lyandrxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrplays)](https://github.com/anuraghazra/github-readme-stats)
