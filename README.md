@@ -17,7 +17,7 @@ Artstation: [@andrei](https://www.artstation.com/andreiradu) \
 Instagram: [@andreeei.gfx](https://www.instagram.com/andreeei.gfx/?hl=en)
 
 ## Contact me
-- Discord: lyandrxw#2464
+- Discord: lyandrxw#2464(lyandrxw)
 - Instagram: [@lyandrxw](https://www.instagram.com/lyandrxw/?hl=en)
 
 ## Stats
