@@ -1,7 +1,7 @@
 ## About me
 Hey, I'm Andrew also known as lyandrxw. \
 I'm a 18 year old designer from Romania. \
-Loves Graphic Designing and succs at programming! <3 <3 <3
+Finally able after years to understand the basics of coding lol(thanks uni, still have to improve and learn but it s a good start)
 
 ### Programs I work in
 
