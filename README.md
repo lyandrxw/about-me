@@ -11,7 +11,7 @@ Finally able after years to understand the basics of coding lol(thanks uni, stil
 <img style="padding: 1.5px" alt="Illustrator" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"/>
 
 ## Portfolio
-Behance: [@andreeei](https://www.behance.net/andreeei) \
+Behance: [@andreeei](https://www.behance.net/andreiradu05) \
 Artstation: [@andrei](https://www.artstation.com/andreiradu) \
 Instagram: [@andreeei.gfx](https://www.instagram.com/andreeei.gfx/?hl=en)
 
