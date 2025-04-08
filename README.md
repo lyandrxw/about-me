@@ -52,7 +52,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrplays&show_icons=true&theme=radical&border_color=00FFFF&border_radius=10&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lyandrxw&show_icons=true&theme=radical&border_color=00FFFF&border_radius=10&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
 </div>
 
 <br/>
