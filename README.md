@@ -24,7 +24,7 @@
 <div align="center">
   <a href="https://www.behance.net/andreiradu05"><img src="https://img.shields.io/badge/Behance-%231769FF.svg?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://www.artstation.com/andreiradu"><img src="https://img.shields.io/badge/ArtStation-%2313AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" /></a>
-  <a href="https://www.instagram.com/andreeei.gfx/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lyandrxw.gfx/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </div>
 
 <br/>
