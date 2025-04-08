@@ -64,7 +64,7 @@
 <div align="center">
   
   ```javascript
-  const andrew = {
+  const lyandrxw = {
     focus: "3D Design & Visualization",
     learning: "Coding fundamentals & UI development",
     passions: ["Visual design", "Music production", "Creative coding"],
