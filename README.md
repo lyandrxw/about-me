@@ -1,4 +1,4 @@
-<h1 align="center">✨ Andrew | lyandrxw ✨</h1>
+<h1 align="center">✨ Andrei | lyandrxw ✨</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=3D+Designer;UI/UX+Designer;Creative+Developer" alt="Typing SVG" />
